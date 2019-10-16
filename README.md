@@ -1,11 +1,13 @@
 # Finding-the-area-of-a-triangle
 
+Compile from console (Mac)
+
 // - cd (directory)
 // - javac Main.java
 - java Main
-- Enter path to the file: (directory)1.txt
+- Enter path to the file: .../1.txt
 - ...
 - The search began!
 - ...
-- Enter path to the file: /Users/{userName}/Desktop/2.txt
+- Enter the file path to create the report: .../2.txt
 
